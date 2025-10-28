@@ -1,0 +1,6 @@
+﻿# Local artifacts to ignore
+.venv/
+**/.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
